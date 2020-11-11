@@ -8,4 +8,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 💻️Javascript 💻️Visual Studio Code 💻️React v16.13.1.
 
-## Feito com ❤️ por hellenmassolin 👋️
+## Feito com ❤️ por hellenm
